@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(176, 176, 176);
+}
+
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.display {
+    display: flex;
+    gap: 20px;
+}
